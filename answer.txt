@@ -1,2 +1,1 @@
-Palabra de prueba
-Este es un saludo de prueba, Hola.
+This is a final test.
